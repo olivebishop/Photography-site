@@ -54,7 +54,7 @@ const Home = () => {
             >
               <div className="lg:inline-flex lg:flex-row lg:ml-auto lg:w-auto text-sm w-full lg:items-center items-start flex flex-col text-center lg:h-auto">
                 <a
-                  href="/"
+                  href="#"
                   className="lg:inline-flex link lg:w-auto w-full px-3 py-2 rounded text-gray-400 items-center justify-center hover:bg-gray-900 hover:text-white"
                 >
                   <span>HOME</span>

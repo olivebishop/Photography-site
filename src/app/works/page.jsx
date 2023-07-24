@@ -55,7 +55,7 @@ const TokyoStreetGallery = () => {
             <div className="hidden bg-black top-navbar w-full lg:inline-flex lg:flex-grow lg:w-auto" id="navigation">
               <div className="lg:inline-flex z-10 lg:flex-row text-white text-center lg:ml-auto lg:w-auto text-sm w-full lg:items-center items-start flex flex-col lg:h-auto">
                 <a
-                  href="/"
+                  href="#"
                   className="lg:inline-flex link lg:w-auto w-full px-3 py-2 rounded text-gray-400 items-center justify-center hover:bg-gray-900 hover:text-white"
                 >
                   <span>HOME</span>
